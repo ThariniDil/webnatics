@@ -13,10 +13,7 @@ I have used the following technologies and libraries/frameworks to complete this
 
 ## Deployment
 
-To make this easier for you to understand i have uploaded a vedio tutorial of how to use this system , here is the link for the vedio in youtube:
-
-
-Also this is system consists of two interfaces :
+This is system consists of two interfaces :
 
 ### Interface One
 
